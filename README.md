@@ -126,7 +126,7 @@ Red-Wine-Exploratory-Data-Analysis/
 
 **Amit Yadav**
 
-Built as part of a Power BI learning project covering real-world retail analytics scenarios.
+Built as part of a EDA learning project covering real-world retail analytics scenarios.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-y-3408a2308)
 
@@ -157,3 +157,6 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ---
+## ⭐ Show Your Support
+
+If you like this project, give it a ⭐ on GitHub!
