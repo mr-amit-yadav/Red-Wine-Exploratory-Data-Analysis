@@ -8,7 +8,7 @@ A comprehensive Exploratory Data Analysis (EDA) of the **Portuguese "Vinho Verde
 
 This project performs an end-to-end EDA on the red wine quality dataset. The goal is to understand the distribution of features, identify correlations between physicochemical properties, and gain visual insights into what influences wine quality scores.
 
-> The dataset is related to the red variant of the Portuguese "Vinho Verde" wine. Due to privacy and logistical reasons, only physicochemical (input) and sensory (output) variables are included — no data about grape types, wine brand, or selling price is available.
+> The dataset is related to the red variant of the Portuguese "Vinho Verde" wine. Due to privacy and logistical reasons, only physicochemical (input) and sensory (output) variables are included - no data about grape types, wine brand, or selling price is available.
 
 ---
 
@@ -48,7 +48,7 @@ This project performs an end-to-end EDA on the red wine quality dataset. The goa
 - Inspected shape, column names, data types, and sample rows
 
 ### 2. Data Cleaning
-- Checked for **missing values** — none found
+- Checked for **missing values** - none found
 - Identified and **removed duplicate records** using `drop_duplicates()`
 
 ### 3. Descriptive Statistics
@@ -80,11 +80,11 @@ This project performs an end-to-end EDA on the red wine quality dataset. The goa
 
 ## ⚠️ Key Observations
 
-- The dataset is **imbalanced** — most wines are rated 5 or 6, with very few rated 3, 4, or 8.
+- The dataset is **imbalanced** - most wines are rated 5 or 6, with very few rated 3, 4, or 8.
 - **Alcohol** shows a positive correlation with wine quality.
 - **Volatile acidity** has a negative correlation with quality.
 - Outlier detection algorithms could be used to identify exceptional or poor wines.
-- Not all input variables may be relevant — feature selection methods are worth exploring.
+- Not all input variables may be relevant - feature selection methods are worth exploring.
 
 ---
 
@@ -122,13 +122,38 @@ Red-Wine-Exploratory-Data-Analysis/
 
 ---
 
-## 📄 License
+## 👤 Author
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+**Amit Yadav**
+
+Built as part of a Power BI learning project covering real-world retail analytics scenarios.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/amit-y-3408a2308)
 
 ---
 
-## 👤 Author
+## 📄 License
 
-**Amit Yadav**  
-GitHub: [@mr-amit-yadav](https://github.com/mr-amit-yadav)
+MIT License
+
+Copyright (c) 2025 Amit Yadav
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
